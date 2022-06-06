@@ -1,0 +1,13 @@
+name: class
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python
+  - numpy
+  - matplotlib
+  - pandas
+  - jupyterlab
+  - cartopy
+  - pymannkendall
+prefix: /Users/mariandob/miniconda3/envs/class
